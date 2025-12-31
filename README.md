@@ -4,7 +4,7 @@ This project focuses on predicting protein functions using Deep Neural Networks,
 
 ## Project Overview
 
-The goal is to train a deep learning model to predict protein functions. The workflow includes:
+The goal is to train a deep learning model to predict protein structure and functions. The workflow includes:
 
 1. **Pretraining**: Using large unreviewed protein sequence datasets from UniRef to teach the model general protein sequence patterns.
 2. **Training**: Using high-quality, manually reviewed protein sequences from UniProtKB to train the model for accurate function prediction.
