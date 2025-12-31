@@ -1,0 +1,18 @@
+# Ignore all raw and processed data
+data/*
+!.gitkeep   # optional, to keep empty folder
+
+# Ignore fasta and CSV datasets
+*.fasta
+*.csv
+
+# Python artifacts
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# VSCode workspace/settings
+.vscode/
