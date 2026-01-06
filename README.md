@@ -1,6 +1,6 @@
 # Protein Function Prediction with Deep Learning
 
-This project focuses on predicting protein functions using Deep Neural Networks, combining Bioinformatics, Machine Learning, and Computational Biology.
+This project focuses on predicting protein functions using Deep Neural Networks, combining Bioinformatics, Machine Learning, and Computational Biology. 
 
 ## Project Overview
 
