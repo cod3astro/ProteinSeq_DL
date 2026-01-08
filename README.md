@@ -9,7 +9,7 @@ The goal is to train a deep learning model to predict protein structure and func
 1. **Pretraining**: Using large unreviewed protein sequence datasets from UniRef to teach the model general protein sequence patterns.
 2. **Training**: Using high-quality, manually reviewed protein sequences from UniProtKB to train the model for accurate function prediction.
 
-## Datasets 
+## Datasets
 
 ### Pretraining Data 
 
