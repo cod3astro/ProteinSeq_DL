@@ -12,7 +12,7 @@ The goal is to train a deep learning model to predict protein structure and func
 ## Datasets
 
 ### Pretraining Data
-
+ 
 - **Source**: UniRef50 / UniRef90  
 - **Total sequences**: 5,661,294  
 - **Organisms included**: Arthropods, Fungi, Mammals, Plants, Archaea, Bacteria  
