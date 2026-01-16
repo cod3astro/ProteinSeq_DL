@@ -1,6 +1,6 @@
 # Protein Function Prediction with Deep Learning
-
-This project focuses on predicting protein functions using Deep Neural Networks, combining Bioinformatics, Machine Learning, and Computational Biology.
+ 
+This project focuses on predicting protein functions using Deep Neural Networks, combining Bioinformatics, Machine Learning, and Computational Biology. 
 
 ## Project Overview
 
@@ -8,11 +8,11 @@ The goal is to train a deep learning model to predict protein structure and func
 
 1. **Pretraining**: Using large unreviewed protein sequence datasets from UniRef to teach the model general protein sequence patterns.
 2. **Training**: Using high-quality, manually reviewed protein sequences from UniProtKB to train the model for accurate function prediction.
-
+ 
 ## Datasets
 
 ### Pretraining Data
-
+ 
 - **Source**: UniRef50 / UniRef90  
 - **Total sequences**: 5,661,294  
 - **Organisms included**: Arthropods, Fungi, Mammals, Plants, Archaea, Bacteria  
