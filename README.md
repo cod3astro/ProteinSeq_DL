@@ -28,7 +28,7 @@ The goal is to train a deep learning model to predict protein structure and func
 
 ### Training Data
 - **Source**: UniProtKB (Reviewed)
-- **Total sequences**: ~105,000
+- **Total sequences**: 105,000+
 - **Filters applied**: All organisms, proteins with function, annotation score 5, all sequence lengths
 - **Files**: FASTA + TSV mapping by accession
 - **Link**: To Be Added
