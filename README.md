@@ -31,7 +31,7 @@ The goal is to train a deep learning model to predict protein structure and func
 - **Total sequences**: 105,000+
 - **Filters applied**: All organisms, proteins with function, annotation score 5, all sequence lengths
 - **Files**: FASTA + TSV mapping by accession
-- **Link**: [Download from Kaggle]([https://www.kaggle.com/datasets/tijaniabdullateef/uniref-pretraining](https://www.kaggle.com/datasets/tijaniabdullateef/uniprot-reviewed-protein-function-dataset))
+- **Link**: [Download from Kaggle](https://www.kaggle.com/datasets/tijaniabdullateef/uniprot-reviewed-protein-function-dataset)
 
 ## Next Steps (Current Progress)
 
