@@ -28,7 +28,7 @@ export default function App() {
         <div className="nav-inner">
           {/* Logo */}
           <span className="nav-logo" onClick={() => setPage("predictor")}>
-            🧬 ProteinLens
+            🧬 NeuralProt
           </span>
 
           {/* Page links */}

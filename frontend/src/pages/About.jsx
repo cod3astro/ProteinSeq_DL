@@ -9,11 +9,11 @@
 /* ─── Data — edit this section ───────────────────────────────────────────────── */
 const AUTHORS = [
   {
-    initials: "AT",       // 【 your initials 】
-    name: "Abdullateef Tijani",    // 【 your full name 】
+    initials: "AT",      
+    name: "Abdullateef Tijani",    
     role: "Lead Researcher · Deep Learning",
     institution: "Universityof Ilorin",  // 【 institution 】
-    bio: "Researcher specialising in computational biology and deep learning for protein function annotation. Building tools that bridge sequence-level representations with biological knowledge graphs.", // 【 your bio 】
+    bio: "Researcher specialising in computational biology, AI & ML in Healthcare. Building tools that bridge technology with biological knowledge graphs.", // 【 your bio 】
     links: {
       email:    "molabosipolateef@gmail.com",       // 【 your email 】
       github:   "https://github.com/cod3astro",   // 【 GitHub URL 】
@@ -33,9 +33,9 @@ const AUTHORS = [
 ];
 
 const PROJECT = {
-  name:        "ProteinLens",
+  name:        "NeuralProt",
   version:     "v1.0.0",
-  description: `ProteinLens is an open-source deep learning tool for predicting protein function
+  description: `NeuralProt is an open-source deep learning tool for predicting protein function
     directly from amino acid sequence. It outputs Gene Ontology (GO) term predictions
     across Molecular Function, Biological Process, and Cellular Component ontologies,
     with per-term confidence scores and cross-model comparison against state-of-the-art
@@ -43,7 +43,7 @@ const PROJECT = {
   model:       "Custom sequence-to-function transformer",
   training:    "SwissProt + TrEMBL subsets via UniProtKB",
   license:     "MIT",
-  citation:    `abdullateef & Aisha (2025). "ProteinLens: Deep Learning for Protein Function Prediction." bioRxiv.`, // 【 update when you have a preprint/paper 】
+  citation:    `Tijani & Aisha (2025). NeuralProt: Deep Neural Network for Protein Function Prediction. `, // 【 update when you have a preprint/paper 】
 };
 /* ─── End of editable data ───────────────────────────────────────────────────── */
 
@@ -152,7 +152,7 @@ export default function About() {
       {/* Header */}
       <div style={{ marginBottom: 44 }}>
         <div className="section-badge">▸ PROJECT &amp; AUTHORS</div>
-        <h1 className="page-title">About<br />ProteinLens</h1>
+        <h1 className="page-title">About<br />NeuralProt</h1>
         <p className="page-subtitle">
           Meet the team behind the tool and learn how to get in touch or cite the work.
         </p>
@@ -244,7 +244,33 @@ export default function About() {
             gap: 8,
           }}
         >
-          {["React 18", "Vite", "Python", "FastAPI", "PyTorch", "ESM-2 baseline", "GO Ontology"].map(
+          {[
+    "Python",
+    "FastAPI",
+    "Uvicorn",
+    "PyTorch",
+    "Pydantic",
+    "HuggingFace datasets",
+    "CORS middleware",
+    "python-dotenv",
+    "React",
+    "Vite",
+    "JavaScript (ES6+)",
+    "Tailwind CSS",
+    "Axios (API calls)",
+    "React Router",
+    "BCEWithLogitsLoss",
+    "ReduceLROnPlateau",
+    "SimpleProteinCNN",
+    "scikit-learn",
+    "NumPy",
+    "Checkpoint saving (.pt)",
+    "pandas",
+    "BioPython (SeqIO)",
+    "psutil",
+    "gc",
+    "UniProtKB"
+].map(
             (tag) => (
               <span
                 key={tag}

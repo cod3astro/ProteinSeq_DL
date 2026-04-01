@@ -73,7 +73,7 @@ export default function Predictor() {
 
       {/* Header */}
       <div style={{ marginBottom: 44 }}>
-        <div className="section-badge">▸ DEEP LEARNING INFERENCE ENGINE v1.0</div>
+        <div className="section-badge">▸ DEEP NEURAL NETWORK ENGINE v1.0</div>
         <h1 className="page-title">Protein Function<br />Predictor</h1>
         <p className="page-subtitle">
           Input an amino acid sequence to predict GO terms, molecular function,
