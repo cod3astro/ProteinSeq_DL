@@ -11,6 +11,9 @@ __pycache__/
 *.pyc
 *.pyo
 
+# Jupyter notebook 
+model_prep/notebooks/LightProtGO.ipynb
+
 # Jupyter notebook checkpoints
 .ipynb_checkpoints/
 
