@@ -2,7 +2,7 @@
  
 This project focuses on predicting protein functions using Deep Neural Networks, combining Bioinformatics, Machine Learning, and Computational Biology. 
 
-## Project Overview
+## Project Overview 
 
 The goal is to train a deep learning model to predict protein structure and functions. The workflow includes:
 
