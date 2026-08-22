@@ -1,4 +1,5 @@
 # Protein Function Prediction with Deep Learning
+## Abandoned in favor of a biophysical-feature approach, see [NeuralProt](https://www.github.com/cod3astro/Neuralprot)
  
 This project focuses on predicting protein functions using Deep Neural Networks, combining Bioinformatics, Machine Learning, and Computational Biology. 
 
